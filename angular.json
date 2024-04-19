@@ -96,10 +96,15 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/sticky-navigation.js"
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "08de2014-157a-4d0a-be39-0978b1c7cdeb"
   }
 }
